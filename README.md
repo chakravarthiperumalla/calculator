@@ -1,4 +1,5 @@
 📱 Big Sur Inspired Calculator
+
 A sleek, modern calculator web application inspired by macOS Big Sur aesthetics. Built using HTML, CSS, and JavaScript, it includes light/dark themes, a responsive design, and an intuitive user interface.
 
 ✨ Features
